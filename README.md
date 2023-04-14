@@ -14,7 +14,7 @@ VRBOT是一款DIY corexy 3D打印机
 
 coreXY架构 voron皮带方案 X轴采用轻量化1515型材
 
-XY使用MGN9H线轨 Z使用10MM光轴+加长直线轴承 T8丝杆
+XY使用MGN9H线轨 Z使用10MM光轴+加长直线轴承 T8丝杆 2040型材立柱
 
 移植2款工具头分别为VZprinthead和EVA
 
