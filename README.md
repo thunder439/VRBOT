@@ -7,3 +7,4 @@ VRBOT是一款DIY corexy 3D打印机
 
 他的特点是使用CNC的铝板框架作为底座和XY运动平台，比一般铝型材精度更高，并且易于组装和维护。
 
+![vrbot](https://github.com/thunder439/VRBOT/blob/main/%E6%AD%A3%E9%9D%A2.jpg)
