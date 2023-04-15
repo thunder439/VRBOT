@@ -28,7 +28,7 @@ Z方案采用VZbot的双Z单电机同步带方案 手动调平+床网补偿
 完整封箱 外循环空气净化器
 
 https://www.bilibili.com/video/BV1UM411M77d/
-
+![vrbot](https://github.com/thunder439/VRBOT/blob/main/%E4%BF%AF%E8%A7%86%E5%9B%BE.jpg)
 ![vrbot](https://github.com/thunder439/VRBOT/blob/main/%E6%AD%A3%E9%9D%A2.jpg)
 ![vrbot](https://github.com/thunder439/VRBOT/blob/main/%E8%83%8C%E9%9D%A2.jpg)
 ![vrbot](https://github.com/thunder439/VRBOT/blob/main/%E5%B0%81%E7%AE%B1.jpg)
