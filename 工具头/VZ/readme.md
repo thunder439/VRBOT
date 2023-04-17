@@ -8,7 +8,7 @@ sherpamini挤出机
 
 3Dtouch
 
-ABS结构件
+ABS结构件  D5M3铝合金隔离柱
 
 
 
