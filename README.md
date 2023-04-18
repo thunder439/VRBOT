@@ -1,5 +1,5 @@
 # VRBOT    
-# 开源进度25% 框架 CNC零件 Z  VZ工具头图纸上传完毕
+# 开源进度25% 框架 CNC零件 Z  VZ EVA工具头图纸上传完毕
 VRBOT是一款DIY corexy 3D打印机
 
 主要基于VZBOT VORON
