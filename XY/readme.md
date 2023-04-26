@@ -18,4 +18,4 @@ MGN9H线轨3根
 ABS Y轴连接件
 
 
-![](https://github.com/thunder439/VRBOT/blob/main/XY/XY.jpg)
+![](https://github.com/thunder439/VRBOT/blob/main/XY/XY1.jpg)
